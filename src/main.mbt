@@ -132,6 +132,6 @@ fn main {
   println("文本行数" + line_count.to_string())
   println("英文单词数" + en_word_count.to_string())
   println("中文字数" + cn_char_count.to_string())
-  println("文本中英文单词数" + total_word.to_string())
+  println("文本单词数" + total_word.to_string())
   println("标点符号数" + punctuation_count.to_string())
 }
